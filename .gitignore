@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSharpTricks/.vs
+/CSharpTricks/CSharpTricks/obj
+/CSharpTricks/CSharpTricks/bin/Debug/net8.0
+/CSharpTricks/CSharpTricks/bin/Release/net8.0
+/CSharpTricks/CSharpTricks/bin
